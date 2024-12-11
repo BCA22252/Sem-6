@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "one-1_helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
+}
