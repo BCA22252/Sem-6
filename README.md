@@ -13,6 +13,10 @@ This repository contains code files for Semester 6 at Sri Balaji University. Bel
 - **three-1_os-module.js**: A file that demonstrates the use of the OS module in Node.js.
 - **three-2_upper-case-module.js**: A program that uses a custom module to convert strings to uppercase.
 - **four-1_name.js**: A Node.js program that handles user input for names.
+- **four-1_fact-module.js**: A Node.js module that performs factorial calculations.
+- **four-1.2_factorial.js**: A Node.js program that demonstrates the use of the factorial module.
+- **four-2_circle-module.js**: A Node.js module that calculates the area of a circle.
+- **four-2.2.js**: A Node.js program that demonstrates the use of the circle module.
 
 ## Flutter Directory
 
