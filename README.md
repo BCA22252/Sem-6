@@ -17,10 +17,10 @@ This repository contains code files for Semester 6 at Sri Balaji University. Bel
 ## Flutter Directory
 
 - **demo.dart**: A Flutter application demonstrating basic Flutter widgets and layout.
-- **bool.txt**: A text file that may contain information or examples related to boolean operations in Flutter.
-- **comments.txt**: A text file that may contain comments or notes related to Flutter development.
-- **hello world.txt**: A text file that likely contains a simple "Hello World" example in Flutter.
-- **numbers operations.txt**: A text file that may contain examples of number operations in Flutter.
-- **string.txt**: A text file that may contain examples or notes related to string manipulation in Flutter.
+- **bool.dart**: A Dart file that may contain information or examples related to boolean operations in Flutter.
+- **comments.dart**: A Dart file that may contain comments or notes related to Flutter development.
+- **hello world.dart**: A Dart file that likely contains a simple "Hello World" example in Flutter.
+- **numbers operations.dart**: A Dart file that may contain examples of number operations in Flutter.
+- **string.dart**: A Dart file that may contain examples or notes related to string manipulation in Flutter.
 
 This README provides a brief overview of the code files available in this repository for Semester 6 at Sri Balaji University.
